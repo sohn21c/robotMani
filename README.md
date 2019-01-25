@@ -10,8 +10,9 @@ One can find the detailed assignment of the project [here](http://hades.mech.nor
 For more information on my other projects please visit my **[Portfolio](http://sohn21c.github.io)**.  
 
 ## Video demonstration
-Two videos below respectively show the result of the simulation with and without the feedback control. 
-![Tux, the Linux mascot](http://github.com/sohn21c/robotMani/image/youtube_1.jpg)
+Two videos below respectively show the result of the simulation with and without the feedback control.  
+
+[![Youtube](https://github.com/sohn21c/robotMani/blob/master/image/youtube_1.jpg)](https://youtu.be/U4uoV8PT5R8)
 
 ## Project break-down
 
