@@ -1,4 +1,4 @@
-## Mobile Manipulation Capstone
+# Mobile Manipulation Capstone
 #### [_James Sohn_(Click to see Portfolio)](http://sohn21c.github.io)
 #### _Sep 2018 - Dec 2018_  
 
